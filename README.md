@@ -6,7 +6,9 @@ As you've covered CS101 you have some basic idea of simple algorithms. That idea
 
 [**Visit the website.**](http://markdown-here.com)
 
-This [**article**] ( https://medium.com/techatucla/introduction-to-competitive-programming-3dca32e5f9a0 ) elaborates what I just said.
+This 
+[**article**] ( https://medium.com/techatucla/introduction-to-competitive-programming-3dca32e5f9a0 ) 
+elaborates what I just said.
 
 Regarding which language to use, it is recommended to use C++ as C++ contains implementations of various algorithms like sorting etc in it which makes it faster for you to solve problems. Check [**this**] (https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/) for more information.
 
