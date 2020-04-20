@@ -26,6 +26,7 @@ I hope you remember merge sort. Sorting can be used to simplifiy a lot of proble
 You can [**check**](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/) this link to know more about sorting algrithms, this is useful for knowledge of algorithms and if you ever want to sit for an interview it's probably essential to know about them. But for questions you do not need to implement it yourself.
 Try these questions:
 1. [**Smart Phone**](https://www.codechef.com/ZCOPRAC/problems/ZCO14003/)
+
 [**Hints**](https://www.commonlounge.com/discussion/262748517419452a8465547f58d0a7dc)
 2. [**1339 B**](https://codeforces.com/problemset/problem/1339/B)
 3. [**1334 B**](https://codeforces.com/problemset/problem/1334/B)
@@ -33,6 +34,7 @@ Try these questions:
 Now let us move on. Remember Binary Search? That simple algorithm has many applications with some being extremely tough. Let us start with a recap.
 
 [**Hackerearth**](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/)
+
 You can solve the problems given here for basics, they have editorials as well. Do a few of these. 
 These are relatively harder and you may not be able to do them. Try for some time and then check the tutorial if you can't get them. This will give you an idea regarding the different ways you can apply binary search:
 1. [**1336 (Div 1) B**](https://codeforces.com/problemset/problem/1336/B)
