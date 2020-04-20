@@ -32,8 +32,8 @@ Try these questions:
 Now let us move on. Remember Binary Search? That simple algorithm has many applications with some being extremely tough. Let us start with a recap.
 
 [**Hackerearth**](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/).
-You can solve the problems given here for basics, they have editorials as well. Do a few of these. 
-These are relatively harder and you may not be able to do them. Try for some time and then check the tutorial if you can't get them. This will give you an idea regarding the different ways you can apply binary search:
+You can solve the problems given here for basics, they have editorials as well. Do a few of these for basic binary search questions.
+The questions given below are relatively harder and you may not be able to do them. Try for some time and then check the tutorial if you can't get them. This will give you an idea regarding the different ways you can apply binary search:
 1. [**1336 (Div 1) B**](https://codeforces.com/problemset/problem/1336/B)
 2. [**CodeJam Round 1B B**](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63): This is a tough problem that came in a contest yesterday. But the only thing you need to know to solve it is binary search! It is also an interactive problem, where you ask the system questions to determine the solution!. Such problems appear from time to time so you can try this out, the first two subtasks are relatively simpler. If you have a hard time with the third subtask check out the analysis section for the solution.
 
