@@ -7,7 +7,7 @@ As you've covered CS101 you have some basic idea of simple algorithms. That idea
 This [**article**]( https://medium.com/techatucla/introduction-to-competitive-programming-3dca32e5f9a0 ) 
 elaborates what I just said.
 
-Regarding which language to use, it is recommended to use C++ as C++ contains implementations of various algorithms like sorting etc in it which makes it faster for you to solve problems. Check [**this*](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/) for more information.
+Regarding which language to use, it is recommended to use C++ as C++ contains implementations of various algorithms like sorting etc in it which makes it faster for you to solve problems. Check [**this**](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/) for more information.
 
 Firstly we will begin with Complexity Theory. You can have multiple algorithms that solve a problem, you however want one that is fast enough to solve the question given the limits. If your algorithm is slow you will get TLE (time limit exceeded).
 
