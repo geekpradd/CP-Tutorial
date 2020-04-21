@@ -116,7 +116,7 @@ Read this **[article](https://www.geeksforgeeks.org/queue-cpp-stl/)** for the C+
 Go through these to see some operations and standard problems related to queues:  
 * **[Reverse](https://www.geeksforgeeks.org/reversing-a-queue/)**
 * **[Reverse-Recursion](https://www.geeksforgeeks.org/reversing-queue-using-recursion/)**
-* **[Largest Multiple](https://www.geeksforgeeks.org/find-the-largest-number-multiple-of-3/)*
+* **[Largest Multiple](https://www.geeksforgeeks.org/find-the-largest-number-multiple-of-3/)**
 
 
 Try out your hands at these implementation problems related to Stacks and Queues:  
