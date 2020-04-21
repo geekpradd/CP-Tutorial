@@ -84,4 +84,49 @@ Let us have soem fun solving the problems based on this concept.
 * **[1315 B](https://codeforces.com/problemset/problem/1315/B)**
 * **[1296 D](https://codeforces.com/problemset/problem/1296/D)**
 
-The last two problems are a bit tougher. The second last one involves three concepts at one go, namely, dp, greedy, binary search. The last involves both sorting and greedy algorithms. 
+The last two problems are a bit tougher. The second last one involves three concepts at one go, namely, dp, greedy, binary search. The last involves both sorting and greedy algorithms.   
+
+---
+
+Let us now get into some of the data structures commonly used in Competitive Programming. :)
+
+## DATA STRUCTURES
+
+Learning algorithms is not enough. How do you even store data? Playing around with data requires some sort of structures where you can store data and manipulate it as per needs. So, there comes in the data structures. There serve as the framework for the code that you write. Till now you have used only arrays and must have seen that you have to declare the size of the array before hand, that is not really the case with the data structures that we talk about now.
+
+### Vector
+
+Vector is almost the same as an array, with the only difference being that is of infinite size. They can be referred to as Dynamic Arrays. They are stored as continuous storage and so they can be accessed using indexes. To dive into the functions of a vector in C++ STL, head **[here](https://www.geeksforgeeks.org/vector-in-cpp-stl/)**.
+
+### Stacks
+
+Stack is a linear data structure that maintains the LIFO (Last In - First Out) order of the elements. What it means is that the element that enters the stack first can exit the first. It is analogous the a stack of books, where in you can remove only the topmost book first. To delve into the details of the stack data structure, head **[here](https://www.geeksforgeeks.org/stack-data-structure/)**.   
+Read this **[article](https://www.geeksforgeeks.org/stack-in-cpp-stl/)** for the C++ STL Stack.  
+
+Go through these to see some standard applications of stacks:  
+* **[Prefix-Infix Conversion](https://www.geeksforgeeks.org/prefix-infix-conversion/)**
+* **[Next Greater](https://www.geeksforgeeks.org/next-greater-element/)**
+* **[Balanced Parenthesis](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)**
+
+### Queue
+
+Queues and stacks are similar kind of data structures but with a slight difference in the way they maintain the order of the elements. Unlike Stack, where LIFO is maintained, queues maintain FIFO (First In - First Out). It means that the element which enters first will exit first. It can be thought of any sort of a queue in real life too where the person standing in the front of the line is the one who exits first. To get into the details of the queue data structure, head **[here](https://www.geeksforgeeks.org/queue-data-structure/)**.  
+Read this **[article](https://www.geeksforgeeks.org/queue-cpp-stl/)** for the C++ STL Queue.
+
+Go through these to see some operations and standard problems related to queues:  
+* **[Reverse](https://www.geeksforgeeks.org/reversing-a-queue/)**
+* **[Reverse-Recursion](https://www.geeksforgeeks.org/reversing-queue-using-recursion/)**
+* **[Largest Multiple](https://www.geeksforgeeks.org/find-the-largest-number-multiple-of-3/)**
+
+Try out your hands at these implementation problems related to Stacks and Queues:  
+* **[Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/)**
+* **[Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/)**  
+
+It is important to note that stacks and queues by default are not stored in continuous memory locations, so they can't be accessed using indexes. They have to be traversed using what are called **[iterators](https://www.geeksforgeeks.org/iterators-c-stl/)**.
+
+Stacks and Queues have some really cool applications in graph theory, which we will go through in the next section. So, basically the thing is it is upto your intellect to decide when and where it is benefical to use stacks or queues or going by the basic array/vector is better. At times, it is easier to solve a problem using vector than actualy using a queue or a stack. But don't worry, you will be able to figure that out with practice.  
+
+---
+
+## GRAPHS 
+
