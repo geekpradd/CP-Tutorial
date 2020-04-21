@@ -116,11 +116,16 @@ Read this **[article](https://www.geeksforgeeks.org/queue-cpp-stl/)** for the C+
 Go through these to see some operations and standard problems related to queues:  
 * **[Reverse](https://www.geeksforgeeks.org/reversing-a-queue/)**
 * **[Reverse-Recursion](https://www.geeksforgeeks.org/reversing-queue-using-recursion/)**
-* **[Largest Multiple](https://www.geeksforgeeks.org/find-the-largest-number-multiple-of-3/)**
+* **[Largest Multiple](https://www.geeksforgeeks.org/find-the-largest-number-multiple-of-3/)*
+
 
 Try out your hands at these implementation problems related to Stacks and Queues:  
 * **[Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/)**
 * **[Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/)**  
+
+Solve these problems based on Stacks and Queues: 
+* **[Monk's Love for Food](https://www.hackerearth.com/challenges/competitive/code-monk-stacks-queues/algorithm/monks-love-for-food/)**
+* **[Power of Time](https://www.hackerearth.com/challenges/competitive/code-monk-stacks-queues/algorithm/monks-love-for-food/)**
 
 It is important to note that stacks and queues by default are not stored in continuous memory locations, so they can't be accessed using indexes. They have to be traversed using what are called **[iterators](https://www.geeksforgeeks.org/iterators-c-stl/)**.
 
