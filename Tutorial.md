@@ -63,8 +63,9 @@ Try out your hands at a few very basic problems for the same -
 * **[1323 A](https://codeforces.com/problemset/problem/1323/A)**
 * **[1113 A](https://codeforces.com/problemset/problem/1113/A)**
 * **[1206 B](https://codeforces.com/problemset/problem/1206/B)**
-* **[1315 B](https://codeforces.com/problemset/problem/1315/B)** 
-The last is relatively tougher. It involves both Binary Search and DP Concepts.
+* **[1315 B](https://codeforces.com/problemset/problem/1315/B)**   
+
+The last one is relatively tougher. It involves both Binary Search and DP Concepts.
 
 To delve into the details of the concepts, head **[here](https://www.geeksforgeeks.org/dynamic-programming/)**. It contains links to advanced concepts and a multitude of problems.
 
